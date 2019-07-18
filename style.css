@@ -253,6 +253,7 @@ button:hover i{
     bottom: 70px;
     z-index: 3;
     font-size: 25px;
+    width: 200px;
     padding: 21px 30px;
     text-transform: capitalize;
     font-weight: 700;
